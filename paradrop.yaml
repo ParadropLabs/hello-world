@@ -1,0 +1,7 @@
+name: hello-world
+description: This project demonstrates a very simple "Hello, World!" chute for Paradrop.
+version: 1
+type: normal
+config:
+  web:
+    port: 8000
