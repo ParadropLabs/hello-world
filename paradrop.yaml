@@ -4,4 +4,4 @@ version: 1
 type: normal
 config:
   web:
-    port: 8000
+    port: 80
